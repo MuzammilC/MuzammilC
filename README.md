@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Muzammil Chuawala.
+My name is Muzammil Chunawala.
 
 I'm a first year in the faculty of Science in UBC.
 
