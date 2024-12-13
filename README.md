@@ -2,7 +2,7 @@
 
 My name is Muzammil Chunawala.
 
-I'm a second-year at UBC who is extremely passionate about learning new skills and growing in various areas. My interests include Data Science, Object-Oriented Programming, and overall working on projects that have an impact. My primary goal, for now, is to learn and experience as much as I can while making some amazing connections along the journey.
+I'm a third-year student at UBC who is extremely passionate about learning new skills and growing in various areas. My interests include Data Science, Object-Oriented Programming, and overall working on projects that have an impact. My primary goal, for now, is to learn and experience as much as I can while making some amazing connections along the journey.
 
 <!--
 **MuzammilC/MuzammilC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
